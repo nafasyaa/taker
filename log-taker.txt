@@ -4563,3 +4563,12 @@
 5/5/2025 | 4:16:59 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 5/5/2025 | 4:16:59 AM | INFO | Trying to activate mining on-chain for wallet: 0x6Eb0a5b0d9AB3caA149b7871D8B37A17D75F7597 
 5/5/2025 | 4:17:04 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xd7a73701e9a19d90cde8266d2a2434662fbf14732a58964ffab005e344920460 
+5/5/2025 | 8:18:20 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/5/2025 | 8:18:20 AM | INFO | Start process for wallet 0x6Eb0a5b0d9AB3caA149b7871D8B37A17D75F7597 
+5/5/2025 | 8:18:21 AM | INFO | Trying To Login for wallet: 0x6Eb0a5b0d9AB3caA149b7871D8B37A17D75F7597 
+5/5/2025 | 8:18:22 AM | INFO | Login successful... 
+5/5/2025 | 8:18:22 AM | INFO | Trying to check user info... 
+5/5/2025 | 8:18:23 AM | INFO | User ID: 103452297 | Twitter: @nafasyalarasati | Total Points: 1704000 
+5/5/2025 | 8:18:23 AM | INFO | Trying to check user miner status... 
+5/5/2025 | 8:18:23 AM | INFO | Last mining time: 5/5/2025, 4:17:03 AM
+5/5/2025 | 8:18:23 AM | WARN | Mining already started, next mining time is: 5/6/2025, 4:17:03 AM
