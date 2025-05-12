@@ -4986,3 +4986,16 @@
 5/12/2025 | 4:16:23 PM | INFO | Trying to check user miner status... 
 5/12/2025 | 4:16:26 PM | INFO | Last mining time: 5/11/2025, 8:13:06 PM
 5/12/2025 | 4:16:26 PM | WARN | Mining already started, next mining time is: 5/12/2025, 8:13:06 PM
+5/12/2025 | 8:14:29 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/12/2025 | 8:14:29 PM | INFO | Start process for wallet 0x6Eb0a5b0d9AB3caA149b7871D8B37A17D75F7597 
+5/12/2025 | 8:14:30 PM | INFO | Trying To Login for wallet: 0x6Eb0a5b0d9AB3caA149b7871D8B37A17D75F7597 
+5/12/2025 | 8:14:31 PM | INFO | Login successful... 
+5/12/2025 | 8:14:31 PM | INFO | Trying to check user info... 
+5/12/2025 | 8:14:31 PM | INFO | User ID: 103452297 | Twitter: @nafasyalarasati | Total Points: 1848000 
+5/12/2025 | 8:14:31 PM | INFO | Trying to check user miner status... 
+5/12/2025 | 8:14:37 PM | INFO | Last mining time: 5/11/2025, 8:13:06 PM
+5/12/2025 | 8:14:37 PM | INFO | Trying to start Mining for wallet: 0x6Eb0a5b0d9AB3caA149b7871D8B37A17D75F7597 
+5/12/2025 | 8:14:43 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/12/2025 | 8:14:43 PM | INFO | Trying to activate mining on-chain for wallet: 0x6Eb0a5b0d9AB3caA149b7871D8B37A17D75F7597 
+5/12/2025 | 8:15:18 PM | ERROR | Activate Mining Error: {"code":"UNKNOWN_ERROR","error":{"code":-32603,"message":"submit transaction to pool failed: Ok(ImmediatelyDropped)"},"payload":{"method":"eth_sendRawTransaction","params":["0x02f86b8204655380831e848082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec080a024437e993bae78af2440f15cb59a43a589018a22dedb26e2efa3c4ec2c7a66b1a07344d8fac73e14a369161f42b71cf3a5d5af39c686c8b30c1e4c4cefd0b95a05"],"id":10,"jsonrpc":"2.0"},"shortMessage":"could not coalesce error"}
+5/12/2025 | 8:15:18 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
