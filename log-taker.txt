@@ -5539,3 +5539,15 @@
 5/22/2025 | 1:03:01 AM | INFO | Trying to activate mining on-chain for wallet: 0x6Eb0a5b0d9AB3caA149b7871D8B37A17D75F7597 
 5/22/2025 | 1:03:03 AM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":null,"reason":null,"transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0x6Eb0a5b0d9AB3caA149b7871D8B37A17D75F7597"},"invocation":null,"revert":null,"shortMessage":"missing revert data","info":{"error":{"code":-32603,"message":"execution fatal: Module(ModuleError { index: 40, error: [5, 0, 0, 0], message: None })"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x34","from":"0x6eb0a5b0d9ab3caa149b7871d8b37a17d75f7597","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
 5/22/2025 | 1:03:03 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/22/2025 | 4:17:53 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/22/2025 | 4:17:53 AM | INFO | Start process for wallet 0x6Eb0a5b0d9AB3caA149b7871D8B37A17D75F7597 
+5/22/2025 | 4:17:53 AM | INFO | Trying To Login for wallet: 0x6Eb0a5b0d9AB3caA149b7871D8B37A17D75F7597 
+5/22/2025 | 4:17:54 AM | INFO | Login successful... 
+5/22/2025 | 4:17:54 AM | INFO | Trying to check user info... 
+5/22/2025 | 4:17:55 AM | INFO | User ID: 103452297 | Twitter: @nafasyalarasati | Total Points: 2064000 
+5/22/2025 | 4:17:55 AM | INFO | Trying to check user miner status... 
+5/22/2025 | 4:17:56 AM | INFO | Last mining time: 5/20/2025, 8:14:48 PM
+5/22/2025 | 4:17:56 AM | INFO | Trying to start Mining for wallet: 0x6Eb0a5b0d9AB3caA149b7871D8B37A17D75F7597 
+5/22/2025 | 4:17:56 AM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+5/22/2025 | 4:17:56 AM | INFO | Trying to activate mining on-chain for wallet: 0x6Eb0a5b0d9AB3caA149b7871D8B37A17D75F7597 
+5/22/2025 | 4:18:08 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xef71a491f6ab542d36b326cb8d069f197c3a27002c9b06cfd1bb446e41cec838 
