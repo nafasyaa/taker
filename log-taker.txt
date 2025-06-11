@@ -6677,3 +6677,12 @@
 6/11/2025 | 4:29:29 AM | WARN | Retrying... (0 attempts left) 
 6/11/2025 | 4:31:48 AM | ERROR | Failed to get nonce after retries: connect ETIMEDOUT 101.47.181.18:443
 6/11/2025 | 4:31:48 AM | ERROR | Failed to retrieve nonce for wallet: 0x6Eb0a5b0d9AB3caA149b7871D8B37A17D75F7597 
+6/11/2025 | 8:18:05 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+6/11/2025 | 8:18:05 AM | INFO | Start process for wallet 0x6Eb0a5b0d9AB3caA149b7871D8B37A17D75F7597 
+6/11/2025 | 8:18:06 AM | INFO | Trying To Login for wallet: 0x6Eb0a5b0d9AB3caA149b7871D8B37A17D75F7597 
+6/11/2025 | 8:18:06 AM | INFO | Login successful... 
+6/11/2025 | 8:18:06 AM | INFO | Trying to check user info... 
+6/11/2025 | 8:18:07 AM | INFO | User ID: 103452297 | Twitter: @nafasyalarasati | Total Points: 2496000 
+6/11/2025 | 8:18:07 AM | INFO | Trying to check user miner status... 
+6/11/2025 | 8:18:08 AM | INFO | Last mining time: 6/10/2025, 8:15:09 PM
+6/11/2025 | 8:18:08 AM | WARN | Mining already started, next mining time is: 6/11/2025, 8:15:09 PM
